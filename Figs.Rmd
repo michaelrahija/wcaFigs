@@ -1,0 +1,78 @@
+---
+title: "Sample Monitoring"
+author: "Michael Rahija"
+date: "25 February 2016"
+output: pdf_document
+---
+
+
+
+
+```{r, echo=FALSE}
+library(ggplot2)
+teams <- c(rep("Team A", times = 3),
+           rep("Team B", times = 3),
+           rep("Team C", times = 3),
+           rep("Team D", times = 3))
+
+enumerators <- paste0("interview_",1:12)
+
+interviews <- c(3,2,3,1,1,2,2,2,3,0, 2,3)
+
+tab <- data.frame(cbind(teams, enumerators, interviews))
+tab$interviews <- as.numeric(as.character(tab$interviews))
+
+knitr::kable(tab, caption = "Interviews completed on 1/2/2015")
+```
+
+
+
+```{r, echo=FALSE}
+
+
+
+ggplot(tab, aes(x = teams, y = as.numeric(as.character(interviews)), fill = enumerators))+ 
+  geom_bar(stat = "identity") +
+  scale_fill_brewer(palette="Paired") +
+  scale_y_discrete(breaks = c(1,4,8)) +
+  ylim(0,8) +
+  labs(x = "Teams", y = "Number of Interviews", main = "Interviews completed on 1/2/2015") +
+  ggtitle("Interviews completed on 1/2/2015")
+```
+
+```{r, echo=FALSE}
+library(maptools)
+library(ggplot2)
+library(ggmap)
+
+wd = "C:/Users/rahija/Dropbox/ad_hoc_R/wcaFigs"
+setwd(wd)
+
+
+source("R/getPoints.R")
+coords <- getPoints()
+coords$lat <- as.numeric(as.character(coords$lat))
+coords$lon <- as.numeric(as.character(coords$lon))
+
+poly <- read.csv("3403150002003B.csv")
+
+colnames(poly) <- c("lon","lat")
+
+
+test2 <- get_map(location = c(lon = mean(poly$lon), lat = mean(poly$lat)), zoom = 16)
+test3 <- ggmap(test2)
+
+
+m <- test3 
+
+m <- m + geom_polygon(aes(x=lon, y=lat), size=.5,color='red', data=poly, fill = NA )
+m <- m + geom_point(data = coords, aes(x = lon, y = lat, fill = "red", alpha = 0.8), size = 2, shape = 21, color = "red")
+m <- m + guides(fill=FALSE, alpha=FALSE, size=FALSE)
+m <- m + labs(x = "longitude", y = "latitude", main = "Map of Interviews")
+
+m <- m + ggtitle("EA = Semin: 003B")
+#plots[[i]] <- m
+print(m)
+
+```
+

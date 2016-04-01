@@ -1,0 +1,5554 @@
+
+      <Placemark>
+         <name>Point 2</name>
+         <description><![CDATA[description: description: <br>KECAMATAN: subdistrict<br>DBS_ID_ST13: identifier 1<br><br>BS_ID_ST13: identifier 1<br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: subdistrict<br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value>description: 
+KECAMATAN: subdistrict
+DBS_ID_ST13: identifier 1</value>
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value>identifier 1</value>
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value>subdistrict</value>
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.717425,-7.87503,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 3</name>
+         <description><![CDATA[description: description: some description<br><br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: subdistrict<br><br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13: <br>BS_ID_ST13: identifier 2<br><br>BS_ID_ST13: identifier 2<br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: subdistrict<br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value>description: some description
+
+FID: 
+PROVNO: 
+KABKOTNO: 
+KECNO: 
+DESANO: 
+KODE_2010: 
+BS_NO: 
+BS_ID: 
+PROVINSI: 
+KABKOT: 
+KECAMATAN: subdistrict
+
+DESA: 
+KECNOST13: 
+DESANOST13: 
+KODE_ST13: 
+KEC_ST13: 
+DESA_ST13: 
+BS_NO_ST13: 
+BS_ID_ST13: identifier 2</value>
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value>identifier 2</value>
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value>subdistrict</value>
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.717983,-7.876475000000001,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 4</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7179081,-7.8727556,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 5</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7180691,-7.871724700000001,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 6</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7174039,-7.871448300000001,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 7</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7176828,-7.8715546,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 8</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.71849820000001,-7.871756500000001,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 9</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.718863,-7.8712145,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 10</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7187772,-7.871618399999999,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 11</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7173288,-7.8725536,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 12</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.717597,-7.8720648,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 13</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7170069,-7.8721923,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 14</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7181978,-7.872925600000001,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 15</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7190132,-7.8732019,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 16</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7169747,-7.8728618,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 17</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.717876,-7.8731382,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 18</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.71714640000002,-7.872989399999999,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 19</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7173824,-7.873116900000001,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 20</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.717876,-7.8731382,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 21</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7184768,-7.8730319,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 22</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.71671720000002,-7.874413499999999,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 23</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7172537,-7.873520700000001,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 24</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7169533,-7.874541,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 25</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.71633100000001,-7.8742859,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 26</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.717361,-7.8755188,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 27</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7176614,-7.8756675,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 28</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7179618,-7.875752600000001,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 29</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7182407,-7.8758376,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 30</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.71843390000001,-7.8758801,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 31</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7185411,-7.8760289,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 32</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7187128,-7.876156399999999,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 33</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7179403,-7.8745623,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 34</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7169747,-7.8756888,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 35</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7168889,-7.875943900000001,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 36</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7168889,-7.875943900000001,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 37</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7167816,-7.8761139,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 38</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7167816,-7.8761139,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 39</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7163954,-7.8761352,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 40</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7161164,-7.8760926,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 41</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7157087,-7.875922600000001,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 42</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.715344,-7.8757951,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 43</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7163954,-7.8761352,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 44</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7168889,-7.876666499999999,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 45</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.717082,-7.8767728,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 46</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7171893,-7.8769429,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 47</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7173824,-7.877155400000001,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 48</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7173824,-7.877155400000001,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 49</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7176399,-7.8772617,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 50</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7177258,-7.8775167,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 51</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7179403,-7.8777718,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 52</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.71800470000001,-7.8779844,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 53</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7182407,-7.878090599999999,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 54</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7177258,-7.8784095,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 55</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7173824,-7.878090599999999,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 56</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7171035,-7.8777931,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 57</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7168031,-7.877559299999999,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 58</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.71671720000002,-7.876794100000001,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 59</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7162881,-7.877155400000001,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 60</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7158375,-7.8761139,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 61</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7156873,-7.8776018,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 62</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7153064,-7.877551700000001,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 63</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7159877,-7.8780481,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 64</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7159662,-7.878537000000001,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 65</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7165027,-7.8790684,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 66</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7157516,-7.8791959,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 67</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7150221,-7.876369000000001,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 68</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7143998,-7.876071400000001,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 69</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7146494,-7.877217699999999,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 70</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7142925,-7.8770066,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 71</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7198501,-7.8733082,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 72</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7191634,-7.874052100000001,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 73</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7187128,-7.874264700000001,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 74</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7155585,-7.8795147,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 75</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7151508,-7.879748500000001,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 76</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.7150221,-7.8806838,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 77</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.71724040000001,-7.8703187,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 78</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.716846,-7.8702262,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Point 79</name>
+         <description><![CDATA[description: <br>BS_ID_ST13: <br>FID: <br>PROVNO: <br>KABKOTNO: <br>KECNO: <br>DESANO: <br>KODE_2010: <br>BS_NO: <br>BS_ID: <br>PROVINSI: <br>KABKOT: <br>KECAMATAN: <br>DESA: <br>KECNOST13: <br>DESANOST13: <br>KODE_ST13: <br>KEC_ST13: <br>DESA_ST13: <br>BS_NO_ST13:]]></description>
+         <styleUrl>#icon-503-DB4436</styleUrl>
+         <ExtendedData>
+            <Data name="description">
+               <value />
+            </Data>
+            <Data name="BS_ID_ST13">
+               <value />
+            </Data>
+            <Data name="FID">
+               <value />
+            </Data>
+            <Data name="PROVNO">
+               <value />
+            </Data>
+            <Data name="KABKOTNO">
+               <value />
+            </Data>
+            <Data name="KECNO">
+               <value />
+            </Data>
+            <Data name="DESANO">
+               <value />
+            </Data>
+            <Data name="KODE_2010">
+               <value />
+            </Data>
+            <Data name="BS_NO">
+               <value />
+            </Data>
+            <Data name="BS_ID">
+               <value />
+            </Data>
+            <Data name="PROVINSI">
+               <value />
+            </Data>
+            <Data name="KABKOT">
+               <value />
+            </Data>
+            <Data name="KECAMATAN">
+               <value />
+            </Data>
+            <Data name="DESA">
+               <value />
+            </Data>
+            <Data name="KECNOST13">
+               <value />
+            </Data>
+            <Data name="DESANOST13">
+               <value />
+            </Data>
+            <Data name="KODE_ST13">
+               <value />
+            </Data>
+            <Data name="KEC_ST13">
+               <value />
+            </Data>
+            <Data name="DESA_ST13">
+               <value />
+            </Data>
+            <Data name="BS_NO_ST13">
+               <value />
+            </Data>
+         </ExtendedData>
+         <Point>
+            <coordinates>110.71671720000002,-7.8705662,0.0</coordinates>
+         </Point>
+      </Placemark>
+      <Style id="icon-503-DB4436-normal">
+         <IconStyle>
+            <color>ff3644DB</color>
+            <scale>1.1</scale>
+            <Icon>
+               <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+            </Icon>
+            <hotSpot x="16" y="31" xunits="pixels" yunits="insetPixels" />
+         </IconStyle>
+         <LabelStyle>
+            <scale>0.0</scale>
+         </LabelStyle>
+      </Style>
+      <Style id="icon-503-DB4436-highlight">
+         <IconStyle>
+            <color>ff3644DB</color>
+            <scale>1.1</scale>
+            <Icon>
+               <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+            </Icon>
+            <hotSpot x="16" y="31" xunits="pixels" yunits="insetPixels" />
+         </IconStyle>
+         <LabelStyle>
+            <scale>1.1</scale>
+         </LabelStyle>
+      </Style>
+      <StyleMap id="icon-503-DB4436">
+         <Pair>
+            <key>normal</key>
+            <styleUrl>#icon-503-DB4436-normal</styleUrl>
+         </Pair>
+         <Pair>
+            <key>highlight</key>
+            <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+         </Pair>
+      </StyleMap>
+      <Style id="poly-F4EB37-1-0-normal">
+         <LineStyle>
+            <color>ff37EBF4</color>
+            <width>1</width>
+         </LineStyle>
+         <PolyStyle>
+            <color>037EBF4</color>
+            <fill>1</fill>
+            <outline>1</outline>
+         </PolyStyle>
+      </Style>
+      <Style id="poly-F4EB37-1-0-highlight">
+         <LineStyle>
+            <color>ff37EBF4</color>
+            <width>2.0</width>
+         </LineStyle>
+         <PolyStyle>
+            <color>037EBF4</color>
+            <fill>1</fill>
+            <outline>1</outline>
+         </PolyStyle>
+      </Style>
+      <StyleMap id="poly-F4EB37-1-0">
+         <Pair>
+            <key>normal</key>
+            <styleUrl>#poly-F4EB37-1-0-normal</styleUrl>
+         </Pair>
+         <Pair>
+            <key>highlight</key>
+            <styleUrl>#poly-F4EB37-1-0-highlight</styleUrl>
+         </Pair>
+      </StyleMap>
+   </Document>
+</kml>
